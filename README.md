@@ -12,6 +12,21 @@
 - ⚙️ Monitoring/Logging with: `Prometheus`, `Grafana`, `ELK Stack`  
 - 📫 [LinkedIn](https://www.linkedin.com/in/med-aziz-yahyaoui-9b1616164)
 
+<details>
+  <summary>🌌 Click to reveal my story...</summary>
+
+  
+🌌✨ A long time ago, in a terminal far, far away...
+
+👨‍💻 **Aziz Yahyaoui**, a fearless full-stack developer from Tunisia, embarked on a journey through the realms of frontend, backend, and beyond. Trained in the ways of DevOps and guardian of observability, he mastered tools like Docker, Spring Boot, Angular, and Kubernetes.
+
+Through endless battles with bugs and system crashes, Aziz forged powerful applications, secured networks, and deployed scalable infrastructures — all while balancing the Force of clean code and strong architecture.
+
+Now, he travels the digital galaxy, offering his skills to projects in need, always ready to build, debug, and deploy.
+
+🔭 *This is the way.*
+</details>
+
 ---
 
 ### 🧰 Tech Stack
