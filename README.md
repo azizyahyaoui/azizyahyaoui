@@ -10,7 +10,7 @@
 - 🌱 Learning more about **CI/CD**, **unit testing**, and **cloud-native tools**  
 - 🛠️ Tech Stack includes: `Java`, `Spring Boot`, `Angular`, `Docker`, `Kubernetes`, `MongoDB`, `PostgreSQL`, `OpenStack`  
 - ⚙️ Monitoring/Logging with: `Prometheus`, `Grafana`, `ELK Stack`  
-- 📫 [LinkedIn](https://www.linkedin.com/in/med-aziz-yahyaoui-9b1616164)
+- 📫 [LinkedIn](https://www.linkedin.com/in/yahyaouimedaziz-it)
 
 <details>
   <summary>🌌 Click to reveal my story...</summary>
@@ -78,4 +78,4 @@ IntelliJ IDEA, VSCode, Eclipse STS, Vim, Nano
 
 ### ❤️ Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/med-aziz-yahyaoui-9b1616164)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yahyaouimedaziz-it)  
