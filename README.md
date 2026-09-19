@@ -104,7 +104,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azizyahyaoui&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Aziz's GitHub Stats" width="100%" />
+  <img src="https://github-readme-activity-graph-gamma-sable.vercel.app/graph?username=azizyahyaoui&theme=react-dark" alt="Aziz's GitHub Activity Graph" width="100%" />
 </div>
 
 <div align="center">
